@@ -21,15 +21,17 @@ The line graph above shows that, on certain days, the average daily rate for a c
 # D. Reservation Status Per Month<br />
 <img src="images/Reservation Status Per Month.jpg" width="400"><br />
 We have developed the grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of canceled reservations is largest in the month of August. Whereas January is the month with the most canceled reservation.
+
 # E. ADR Per Month<br />
 <img src="images/ADR Per Month.jpg" width="400"><br />
 This bar graph demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
  Now, let’s see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
+ 
  # F. Top 10 Countries with reservation canceled<br />
-<img src="images/ADR Per Month.jpg" width="400"><br />
-This bar graph demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
- Now, let’s see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
+<img src="images/Top 10 Countries with reservation canceled.png" width="400"><br />
+Let’s check the area from where guests are visiting the hotels and making reservations. It is coming from direct or groups, online or offline travel agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations.
 
-
-
+ # G. Average Daily Rate<br />
+<img src="images/Average Daily Rate.png" width="400"><br />
+As seen in the graph, reservation is canceled when the average daily rate is higher than when it is not canceled.it clearly proves all the above analysis, that the higher price leads to higher cancellation.
 
