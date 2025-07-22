@@ -21,9 +21,15 @@ The line graph above shows that, on certain days, the average daily rate for a c
 # D. Reservation Status Per Month<br />
 <img src="images/Reservation Status Per Month.jpg" width="400"><br />
 We have developed the grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of canceled reservations is largest in the month of August. Whereas January is the month with the most canceled reservation.
-# D. ADR Per Month<br />
+# E. ADR Per Month<br />
 <img src="images/ADR Per Month.jpg" width="400"><br />
 This bar graph demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
  Now, let’s see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
+ # F. Top 10 Countries with reservation canceled<br />
+<img src="images/ADR Per Month.jpg" width="400"><br />
+This bar graph demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
+ Now, let’s see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
+
+
 
 
